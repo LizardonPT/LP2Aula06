@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="BearAdapter/BearAdapter.csproj" />
+  <Project Path="Descompressor/Descompressor.csproj" />
   <Project Path="GunDecorations/GunDecorations.csproj" />
 </Solution>
